@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 10.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,19 +57,7 @@ Unknown OS               1 hr 10 mins        █░░░░░░░░░░�
 Windows                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
-**I Mostly Code in HTML** 
 
-```text
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-
- Last Updated on 07/06/2023 10:05:51 UTC
+ Last Updated on 07/06/2023 10:08:38 UTC
 <!--END_SECTION:waka-->
 
