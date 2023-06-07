@@ -19,20 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C439%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 10.8 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -58,6 +46,6 @@ Windows                  10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/06/2023 10:36:49 UTC
+ Last Updated on 07/06/2023 10:40:11 UTC
 <!--END_SECTION:waka-->
 
