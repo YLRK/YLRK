@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                15 commits          █████████████████████░░░░   83.33 % 
-🌃 Evening                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -67,11 +57,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/YLRK/YLRK/main/assets/bar_graph.png)
-
-
- Last Updated on 07/06/2023 10:03:21 UTC
+ Last Updated on 07/06/2023 10:05:51 UTC
 <!--END_SECTION:waka-->
 
