@@ -25,7 +25,7 @@ jobs:
           SHOW_UPDATED_DATE: False
           SYMBOL_VERSION: 3
       - name: generate github-contribution-grid-snake.svg
-        uses: YLRK/snk/svg-only@v2
+        uses: YLRK/snk/svg-only@master
         with:
           github_user_name: ylrk
           outputs: |
