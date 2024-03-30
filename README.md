@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on radar/imu odometry
 - 🌱 I’m currently learning SLAM
-- 💬 Ask me about anything [here](ylrk@outlook.com)
+- 💬 Ask me about anything [here](https://ylrk.github.io/)
 - ⚡ C++ / Python
 
 <!--START_SECTION:waka-->
