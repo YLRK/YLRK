@@ -1,4 +1,4 @@
-### Hi there, I'm YLRK!👋
+## Hi there, I'm YLRK!👋
 
 <!--
 **YLRK/YLRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SLAM
 - 💬 Ask me about anything [here](https://ylrk.github.io/)
 - ⚡ C++ / Python
+
+## Skills
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,md,matlab,bash&theme=dark&&perline=10" alt="Skills"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vim,vscode,pycharm,git,github,pytorch,anaconda,docker,ros,opencv,cmake,powershell,obsidian&theme=dark&&perline=10" alt="Skills"/>
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
