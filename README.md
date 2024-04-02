@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,md,matlab,bash&theme=dark&&perline=10" alt="Skills"/>
 
-### Tools
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=vim,vscode,pycharm,clion,git,linux,ubuntu,github,pytorch,anaconda,docker,ros,opencv,cmake,obsidian,nodejs,npm,pnpm,vue&theme=dark&&perline=10" alt="Skills"/>
 
