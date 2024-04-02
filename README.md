@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=vim,vscode,pycharm,clion,git,linux,ubuntu,github,pytorch,anaconda,docker,ros,opencv,cmake,obsidian,nodejs,npm,pnpm,vue&theme=dark&&perline=10" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,docker,linux,ubuntu,github,pytorch,anaconda,ros,opencv,cmake,vim,neovim,obsidian,nodejs,npm,pnpm,vue&theme=dark&&perline=10" alt="Skills"/>
 
 
 <!--START_SECTION:waka-->
