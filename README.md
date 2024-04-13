@@ -80,3 +80,10 @@ Windows                  21 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ylrk/ylrk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ylrk/ylrk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+### Visitor count
+<div align="center">
+
+[![:Augenestern-creator](https://count.getloli.com/get/@:YLRK?theme=rule34)](https://github.com/journey-ad/Moe-Counter)
+
+</div>
