@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,docker,linux,ubuntu,github,pytorch,anaconda,ros,opencv,cmake,vim,neovim,obsidian,nodejs,npm,pnpm,vue&theme=dark&&perline=10" alt="Skills"/>
 
+### Waka stats
+[![wakatime](https://wakatime.com/badge/user/ea87d5cd-5095-49cc-9b6e-fab2b2510ef8.svg)](https://wakatime.com/@ea87d5cd-5095-49cc-9b6e-fab2b2510ef8)
+
+
+<details>
+<summary>📑 More</summary>
+</br>
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -48,6 +56,9 @@ Windows                  21 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <!--END_SECTION:waka-->
+
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ylrk/ylrk/output/github-contribution-grid-snake-dark.svg" />
