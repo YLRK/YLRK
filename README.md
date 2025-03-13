@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,md,matlab,bash&theme=dark&&perline=10" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,md,matlab,bash&theme=dark&&perline=10" alt="Skills"/>
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,docker,linux,ubuntu,github,pytorch,anaconda,ros,opencv,cmake,vim,neovim,obsidian,nodejs,npm,pnpm,vue&theme=dark&&perline=10" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,docker,linux,ubuntu,github,pytorch,anaconda,ros,opencv,cmake,vim,neovim,obsidian,nodejs,npm,pnpm,vue,spring,redis&theme=dark&&perline=11" alt="Skills"/>
 
 ### Waka stats
 [![wakatime](https://wakatime.com/badge/user/ea87d5cd-5095-49cc-9b6e-fab2b2510ef8.svg)](https://wakatime.com/@ea87d5cd-5095-49cc-9b6e-fab2b2510ef8)
